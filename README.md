@@ -4,7 +4,7 @@ I'm Ben, a former mechanic, and a 10+ years deveopper.
 
 ## I'm currently working on Typescript/Javascript full stack projects.
 
-I have done __7+ years of C++__ in different companies (_SAP, Continental, Faurecia, Devialet..._), working on financial apps, embedded systems, web services backend, AI, Computer vision etc. All these projects were amazingly challenging but I've learned C++ because I wanted to code GAMES 😄, therefore I've eaten tons of OpenGL code, but I need to pay my bills and we all know game programming is paid with __passion__ not cash... 😅
+I have done __7+ years of C++__ in different companies (_SAP, Continental, Faurecia, Devialet..._), working on financial apps, embedded systems, web services backend, AI, Computer vision etc. All these projects were amazingly challenging but I've learned C++ because I wanted to code __Games__ 😄, therefore I've eaten tons of OpenGL code, but I need to pay my bills and we all know game programming is paid with __passion__ not cash... 😅
 
 I Started a Game engine a few years ago and I reboot it everytime I get back to it but I will finish it one day.then(() => reboot()).catch(() => reboot())
 

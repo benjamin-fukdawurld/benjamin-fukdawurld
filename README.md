@@ -1,6 +1,6 @@
 # Hi devs! 👋
 
-I'm Ben, a former mechanic, and a 10+ years deveopper.
+I'm Ben, a former mechanic, and a 10+ years developper.
 
 ## I'm currently working on Typescript/Javascript full stack projects.
 

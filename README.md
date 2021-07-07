@@ -10,7 +10,12 @@ I Started a Game engine a few years ago and I reboot it everytime I get back to 
 
 I love this project but it is really time consuming 
 
-C++ and me decided to have a break, he was sad I was not.
+### C++ and me decided to have a break, he was sad, I was not.
+
+I'm passionated and curious on programing and learning new stuffs.
+That leads me to learn everyday and play around with a lot of code and tech. When I will be skilled enough to on Javascript and Typescript, DevOps and web stuffs I will try some cloud computing and Go.
+
+Let's do some code guys !
 
 <!--
 **benjamin-fukdawurld/benjamin-fukdawurld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
